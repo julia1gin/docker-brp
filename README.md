@@ -6,7 +6,7 @@
 
 ## Шаг 2: Подготовить программу 
 
-![image](...)
+![image](/images/program.jpg)
 
 ## Шаг 3: Docker build
 
